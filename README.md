@@ -1,4 +1,4 @@
-# 24 Carrot Frontend Design
+# Catering and Events Webapge
 
  This project aims to showcase the frontend design implementation for a catering and events company using ReactJS. With a focus on elegance, functionality, and user experience, this webpage design is tailored to meet the needs of both the company and its clients.
 ## Features
