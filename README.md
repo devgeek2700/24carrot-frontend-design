@@ -1,7 +1,6 @@
 # 24 Carrot Frontend Design
 
-This repository contains the frontend design of the 24 Carrot webpage created using ReactJS.
-
+ This project aims to showcase the frontend design implementation for a catering and events company using ReactJS. With a focus on elegance, functionality, and user experience, this webpage design is tailored to meet the needs of both the company and its clients.
 ## Features
 
 - **Responsive Design**: The webpage design is responsive and adjusts according to different screen sizes.
